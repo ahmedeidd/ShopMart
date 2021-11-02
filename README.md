@@ -4,7 +4,9 @@
 
 ## some Videos
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/shopLovers/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/ShopMart/blob/main/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/ShopMart/blob/main/screenshots/record_2.gif "Design")
+![original Design](https://github.com/ahmedeidd/ShopMart/blob/main/screenshots/record_3.gif "Design")
 
 
 ## Screenshots
