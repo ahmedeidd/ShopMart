@@ -1,6 +1,6 @@
 # ShopMart
 
-<a href="https://github.com/ahmedeidd/MatjerWiz/blob/main/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/ahmedeidd/ShopMart/blob/main/shop-mart.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## some Videos
 <!-- record_1 -->
